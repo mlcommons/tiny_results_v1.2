@@ -1,0 +1,12 @@
+#!gbuild
+[Subproject]
+	-I../modules/
+	-I../peripherals
+    -Iinclude/
+submitter_implemented.c
+submitter_implemented.h
+internally_implemented.c
+internally_implemented.h
+main.c
+
+neural_network/neural_network.gpj

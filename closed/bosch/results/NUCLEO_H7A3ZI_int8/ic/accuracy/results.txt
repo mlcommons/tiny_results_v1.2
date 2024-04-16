@@ -1,0 +1,2 @@
+00244.868 ulp-mlperf: Top-1: 87.5%
+00244.880 ulp-mlperf: AUC: 0.98

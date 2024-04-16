@@ -1,0 +1,2 @@
+01642.904 ulp-mlperf: Top-1: 85.4%
+01642.919 ulp-mlperf: AUC: 0.94

@@ -1,0 +1,4 @@
+07550.189 ulp-mlperf: Top-1: 87.0%
+07550.189 ulp-mlperf: Top-1: 87.0%
+07550.215 ulp-mlperf: AUC: 0.98
+07550.215 ulp-mlperf: AUC: 0.98

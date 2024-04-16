@@ -1,0 +1,46 @@
+{
+	"Submitter": "Skymizer",
+	"Division": "Closed",
+	"Status": "Available",
+
+	"Board Name": "ASUS Tinker V",
+	"Board Memory capacity (not including SoC, processor, or accelerator)": "1GB",
+	"Board Memory type": "RAM",
+	"Board storage capacity": "16GB",
+	"Board storage type": "Flash",
+	"SoC Name": "Renesas RZ/Five",
+	"SoC Memory capacity (not including processor or accelerator)": "",
+	"SoC Memory type": "",
+	"SoC storage capacity": "",
+	"SoC storage type": "",
+	"Processor(s) Name": "RISC-V AndesCore™ AX45MP Single core",
+	"Processor(s) Frequencies": "1.0 GHz",
+	"Processor memory type and capacity": "",
+	"Processor storage type and capacity": "",
+	"Accelerator": "",
+	"Accelerator(s) Frequencies": "",
+	"Accelerator memory type and capacity": "",
+	"Accelerator storage type and capacity": "",
+	"Hardware Notes": "",
+
+	"Inference Framework": "ONNC",
+	"Software Libraries": {
+		"andes_nn": {
+			"SHA": ""	
+		}
+	},
+	"Operating System ": {
+		"Linux": {
+			"OS version": ""
+		}
+	},
+	"Other Software Stack": "",
+	"Software Notes": "",
+
+	"Quantization Method": "ONNC calibrator with PTQ",
+	"Training framework (open division)": "",
+	"ML Model Compiler(s)": "",
+	"General Compiler(s)": "riscv64-linux-gcc.gnu (2023-05-08_nds64le-linux-glibc-v5d-4356776f1) 10.4.0",
+	"Other Software": "",
+	"Training and Quantization Notes": ""
+}

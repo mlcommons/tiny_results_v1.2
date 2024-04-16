@@ -1,0 +1,2 @@
+00278.070 ulp-mlperf: Top-1: 87.0%
+00278.085 ulp-mlperf: AUC: 0.98

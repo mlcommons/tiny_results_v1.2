@@ -1,0 +1,52 @@
+04772.651 ulp-ml: Energy data for window 2 at time 86.39 for 11.88 sec.:
+04772.651 ulp-ml:   Energy       :  1482730.500 uJ
+04772.651 ulp-ml:   Power        :   124798.460 uW
+04772.651 ulp-ml:   Energy/Inf.  :     2965.461 uJ/inf.
+04772.662 ulp-ml: Energy data for window 4 at time 183.68 for 11.88 sec.:
+04772.662 ulp-ml:   Energy       :  1482411.370 uJ
+04772.662 ulp-ml:   Power        :   124792.606 uW
+04772.662 ulp-ml:   Energy/Inf.  :     2964.823 uJ/inf.
+04772.676 ulp-ml: Energy data for window 6 at time 281.04 for 11.88 sec.:
+04772.677 ulp-ml:   Energy       :  1484645.890 uJ
+04772.677 ulp-ml:   Power        :   124959.674 uW
+04772.677 ulp-ml:   Energy/Inf.  :     2969.292 uJ/inf.
+04772.696 ulp-ml: Energy data for window 8 at time 378.40 for 11.88 sec.:
+04772.697 ulp-ml:   Energy       :  1484579.040 uJ
+04772.697 ulp-ml:   Power        :   124954.048 uW
+04772.697 ulp-ml:   Energy/Inf.  :     2969.158 uJ/inf.
+04772.718 ulp-ml: Energy data for window 10 at time 475.75 for 11.88 sec.:
+04772.718 ulp-ml:   Energy       :  1482627.490 uJ
+04772.719 ulp-ml:   Power        :   124800.294 uW
+04772.719 ulp-ml:   Energy/Inf.  :     2965.255 uJ/inf.
+04772.719 ulp-ml: ---------------------------------------------------------
+04772.719 ulp-ml: Median energy cost is 2965.461 uJ/inf.
+04772.719 ulp-ml: ---------------------------------------------------------
+04772.720 ulp-ml: Performance results for window 2:
+04772.720 ulp-ml:   # Inferences :          500
+04772.720 ulp-ml:   Runtime      :       11.881 sec.
+04772.720 ulp-ml:   Throughput   :       42.084 inf./sec.
+04772.720 ulp-ml: Runtime requirements have been met.
+04772.720 ulp-ml: Performance results for window 4:
+04772.720 ulp-ml:   # Inferences :          500
+04772.720 ulp-ml:   Runtime      :       11.879 sec.
+04772.720 ulp-ml:   Throughput   :       42.091 inf./sec.
+04772.720 ulp-ml: Runtime requirements have been met.
+04772.720 ulp-ml: Performance results for window 6:
+04772.720 ulp-ml:   # Inferences :          500
+04772.720 ulp-ml:   Runtime      :       11.880 sec.
+04772.720 ulp-ml:   Throughput   :       42.088 inf./sec.
+04772.720 ulp-ml: Runtime requirements have been met.
+04772.720 ulp-ml: Performance results for window 8:
+04772.720 ulp-ml:   # Inferences :          500
+04772.720 ulp-ml:   Runtime      :       11.881 sec.
+04772.720 ulp-ml:   Throughput   :       42.084 inf./sec.
+04772.720 ulp-ml: Runtime requirements have been met.
+04772.720 ulp-ml: Performance results for window 10:
+04772.720 ulp-ml:   # Inferences :          500
+04772.720 ulp-ml:   Runtime      :       11.880 sec.
+04772.720 ulp-ml:   Throughput   :       42.088 inf./sec.
+04772.720 ulp-ml: Runtime requirements have been met.
+04772.720 ulp-ml: ---------------------------------------------------------
+04772.720 ulp-ml: Median throughput is 42.088 inf./sec.
+04772.720 ulp-ml: ---------------------------------------------------------
+04772.720 ulp-ml: Cannot compute accuracy metrics in single-run mode.

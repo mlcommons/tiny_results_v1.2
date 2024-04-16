@@ -1,0 +1,2 @@
+08398.739 ulp-mlperf: Top-1: 77.4%
+08398.742 ulp-mlperf: AUC: 0.86
