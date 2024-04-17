@@ -1,16 +1,8 @@
 # MLPerf™ Tiny v1.2 results
 
-This is the repository containing results and code for the [v1.2 version of the MLPerf™ Tiny benchmark](https://github.com/mlcommons/tiny_results_v1.2). For final results please see [MLPerf™ Tiny v1.2 benchmark results](https://mlcommons.org/en/inference-tiny-12/).
+This is the repository containing results and code for the [v1.2 version of the MLPerf™ Tiny benchmark](https://github.com/mlcommons/tiny_results_v1.2). For final results please see [MLPerf™ Tiny v1.2 benchmark results](https://mlcommons.org/benchmarks/inference-tiny/). To view the results table of a previous round, select that round in the Tableau viewer.
 
 For benchmark code and rules please see the [GitHub repository](https://github.com/mlcommons/tiny).
-
-Previous versions of the benchmark are available at the following pages.  To view the results table of a previous round, select that round from the Tabula viewer.
-| Version | Results Table | Github Repository |
-| ------- | ------------- | ----------------- |
-|  v1.1   | [Results](https://mlcommons.org/en/inference-tiny-11/) | [GitHub](https://github.com/mlcommons/tiny_results_v1.1) | 
-|  v1.0   | [Results](https://mlcommons.org/en/inference-tiny-10/) | [GitHub](https://github.com/mlcommons/tiny_results_v1.0) | 
-|  v0.7   | [Results](https://mlcommons.org/en/inference-tiny-07/) | [GitHub](https://github.com/mlcommons/tiny_results_v0.7) | 
-|  v0.5   | [Results](https://mlcommons.org/en/inference-tiny-05/) | [GitHub](https://github.com/mlcommons/tiny_results_v0.5) |
 
 ## MLPerf™ Tiny results directory structure
 
